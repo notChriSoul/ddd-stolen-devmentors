@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CmD85l9QQOI=",
+  "dgSpecHash": "MzEq8ZRz4QU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Infrastructure\\PackIT.Shared.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krzysztof.dusza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
