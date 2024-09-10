@@ -3,48 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\factories\\packinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\factories\\packinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.application\\commands\\handlers\\createpackinglistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|solutionrelative:src\\packit.application\\commands\\handlers\\createpackinglistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\factories\\ipackinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\factories\\ipackinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.application\\exceptions\\packinglistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|solutionrelative:src\\packit.application\\exceptions\\packinglistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\entities\\packinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\entities\\packinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.application\\services\\ipackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|solutionrelative:src\\packit.application\\services\\ipackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\policies\\temperature\\hightemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\policies\\temperature\\hightemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\policies\\policydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\policies\\policydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\policies\\ipackingitemspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\policies\\ipackingitemspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.application\\packit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|solutionrelative:src\\packit.application\\packit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\repositories\\ipackinglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\repositories\\ipackinglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\policies\\temperature\\lowtemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\policies\\temperature\\lowtemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\factories\\ipackinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\factories\\ipackinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\policies\\gender\\malegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\policies\\gender\\malegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\factories\\packinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\factories\\packinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\policies\\gender\\femalegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\policies\\gender\\femalegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.application\\commands\\createpackinglistwithitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|solutionrelative:src\\packit.application\\commands\\createpackinglistwithitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\policies\\universal\\basicpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\policies\\universal\\basicpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B8F0721-5925-40AB-A296-EB2C14A07814}|src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.shared.infrastructure\\packit.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B8F0721-5925-40AB-A296-EB2C14A07814}|src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj|solutionrelative:src\\packit.shared.infrastructure\\packit.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127C3969-FE2D-4340-BCC7-F3190C38F823}|src\\PackIT.Api\\PackIT.Api.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127C3969-FE2D-4340-BCC7-F3190C38F823}|src\\PackIT.Api\\PackIT.Api.csproj|solutionrelative:src\\packit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127C3969-FE2D-4340-BCC7-F3190C38F823}|src\\PackIT.Api\\PackIT.Api.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.api\\packit.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{127C3969-FE2D-4340-BCC7-F3190C38F823}|src\\PackIT.Api\\PackIT.Api.csproj|solutionrelative:src\\packit.api\\packit.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FABFC6-5813-4F7C-8FA1-8279BBE67E3F}|src\\PackIT.Application\\PackIT.Application.csproj|solutionrelative:src\\packit.application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127C3969-FE2D-4340-BCC7-F3190C38F823}|src\\PackIT.Api\\PackIT.Api.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127C3969-FE2D-4340-BCC7-F3190C38F823}|src\\PackIT.Api\\PackIT.Api.csproj|solutionrelative:src\\packit.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8F0721-5925-40AB-A296-EB2C14A07814}|src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.shared.infrastructure\\commands\\inmemorycommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8F0721-5925-40AB-A296-EB2C14A07814}|src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj|solutionrelative:src\\packit.shared.infrastructure\\commands\\inmemorycommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127C3969-FE2D-4340-BCC7-F3190C38F823}|src\\PackIT.Api\\PackIT.Api.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127C3969-FE2D-4340-BCC7-F3190C38F823}|src\\PackIT.Api\\PackIT.Api.csproj|solutionrelative:src\\packit.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.domain\\packit.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0321784D-9E22-4652-9A97-E7464962DCB3}|src\\PackIT.Domain\\PackIT.Domain.csproj|solutionrelative:src\\packit.domain\\packit.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8F0721-5925-40AB-A296-EB2C14A07814}|src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.shared.infrastructure\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8F0721-5925-40AB-A296-EB2C14A07814}|src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj|solutionrelative:src\\packit.shared.infrastructure\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA43F9-FAAE-4C94-B5AE-82E8EBF96A4A}|src\\PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.shared.abstractions\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA43F9-FAAE-4C94-B5AE-82E8EBF96A4A}|src\\PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:src\\packit.shared.abstractions\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA43F9-FAAE-4C94-B5AE-82E8EBF96A4A}|src\\PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|c:\\users\\krzysztof.dusza\\onedrive - rossmann sdp\\pulpit\\project\\packit\\packit\\src\\packit.shared.abstractions\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA43F9-FAAE-4C94-B5AE-82E8EBF96A4A}|src\\PackIT.Shared.Abstractions\\PackIT.Shared.Abstractions.csproj|solutionrelative:src\\packit.shared.abstractions\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,102 +86,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PackingListAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "RelativeToolTip": "src\\PackIT.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:38:13.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PackingList.cs",
-              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Entities\\PackingList.cs",
-              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Entities\\PackingList.cs",
-              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Entities\\PackingList.cs",
-              "RelativeToolTip": "src\\PackIT.Domain\\Entities\\PackingList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IPackingListReadService.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Services\\IPackingListReadService.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Application\\Services\\IPackingListReadService.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Services\\IPackingListReadService.cs",
+              "RelativeToolTip": "src\\PackIT.Application\\Services\\IPackingListReadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T11:48:30.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPackingListRepository.cs",
-              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
-              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
-              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
-              "RelativeToolTip": "src\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T09:22:39.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LowTemperaturePolicy.cs",
-              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
-              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
-              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
-              "RelativeToolTip": "src\\PackIT.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T09:06:05.943Z",
+              "WhenOpened": "2024-09-09T11:22:24.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HighTemperaturePolicy.cs",
-              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
-              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
-              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
-              "RelativeToolTip": "src\\PackIT.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
+              "Title": "PackIT.Application",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\PackIT.Application.csproj",
+              "RelativeDocumentMoniker": "src\\PackIT.Application\\PackIT.Application.csproj",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\PackIT.Application.csproj",
+              "RelativeToolTip": "src\\PackIT.Application\\PackIT.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T09:06:02.889Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T11:21:48.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MaleGenderPolicy.cs",
-              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
-              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
-              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
-              "RelativeToolTip": "src\\PackIT.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "IPackingListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
+              "RelativeToolTip": "src\\PackIT.Domain\\Repositories\\IPackingListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T09:05:59.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FemaleGenderPolicy.cs",
-              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
-              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
-              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
-              "RelativeToolTip": "src\\PackIT.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T09:05:33.984Z",
+              "WhenOpened": "2024-09-09T10:53:05.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IPackingItemsPolicy.cs",
-              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\IPackingItemsPolicy.cs",
-              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Policies\\IPackingItemsPolicy.cs",
-              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\IPackingItemsPolicy.cs",
-              "RelativeToolTip": "src\\PackIT.Domain\\Policies\\IPackingItemsPolicy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T09:05:23.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "IPackingListFactory.cs",
               "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Factories\\IPackingListFactory.cs",
               "RelativeDocumentMoniker": "src\\PackIT.Domain\\Factories\\IPackingListFactory.cs",
@@ -157,47 +150,186 @@
               "RelativeToolTip": "src\\PackIT.Domain\\Factories\\IPackingListFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:56:22.419Z",
+              "WhenOpened": "2024-09-09T10:52:08.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreatePackingListWithItemsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "RelativeToolTip": "src\\PackIT.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:51:03.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePackingListWithItems.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Commands\\CreatePackingListWithItems.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Application\\Commands\\CreatePackingListWithItems.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Commands\\CreatePackingListWithItems.cs",
+              "RelativeToolTip": "src\\PackIT.Application\\Commands\\CreatePackingListWithItems.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:44:34.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "src\\PackIT.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:59:02.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PackIT.Api.http",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Api\\PackIT.Api.http",
+              "RelativeDocumentMoniker": "src\\PackIT.Api\\PackIT.Api.http",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Api\\PackIT.Api.http",
+              "RelativeToolTip": "src\\PackIT.Api\\PackIT.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-05T13:58:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Api\\Program.cs",
+              "RelativeToolTip": "src\\PackIT.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:58:13.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "src\\PackIT.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:58:11.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PackingListFactory.cs",
               "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Factories\\PackingListFactory.cs",
               "RelativeDocumentMoniker": "src\\PackIT.Domain\\Factories\\PackingListFactory.cs",
               "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Factories\\PackingListFactory.cs",
               "RelativeToolTip": "src\\PackIT.Domain\\Factories\\PackingListFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:56:05.053Z",
+              "WhenOpened": "2024-09-05T13:43:31.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BasicPolicy.cs",
-              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Universal\\BasicPolicy.cs",
-              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Policies\\Universal\\BasicPolicy.cs",
-              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\Universal\\BasicPolicy.cs",
-              "RelativeToolTip": "src\\PackIT.Domain\\Policies\\Universal\\BasicPolicy.cs",
+              "DocumentIndex": 15,
+              "Title": "PackIT.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\PackIT.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\PackIT.Domain\\PackIT.Domain.csproj",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\PackIT.Domain.csproj",
+              "RelativeToolTip": "src\\PackIT.Domain\\PackIT.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T09:05:26.405Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T13:36:28.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PolicyData.cs",
-              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\PolicyData.cs",
-              "RelativeDocumentMoniker": "src\\PackIT.Domain\\Policies\\PolicyData.cs",
-              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Domain\\Policies\\PolicyData.cs",
-              "RelativeToolTip": "src\\PackIT.Domain\\Policies\\PolicyData.cs",
+              "DocumentIndex": 11,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Extensions.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Application\\Extensions.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Application\\Extensions.cs",
+              "RelativeToolTip": "src\\PackIT.Application\\Extensions.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:17:38.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PackIT.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj",
+              "RelativeDocumentMoniker": "src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj",
+              "RelativeToolTip": "src\\PackIT.Shared.Infrastructure\\PackIT.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T12:52:33.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InMemoryCommandDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Infrastructure\\Commands\\InMemoryCommandDispatcher.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Shared.Infrastructure\\Commands\\InMemoryCommandDispatcher.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Infrastructure\\Commands\\InMemoryCommandDispatcher.cs",
+              "RelativeToolTip": "src\\PackIT.Shared.Infrastructure\\Commands\\InMemoryCommandDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:17:09.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Abstractions\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Shared.Abstractions\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Abstractions\\Commands\\ICommand.cs",
+              "RelativeToolTip": "src\\PackIT.Shared.Abstractions\\Commands\\ICommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:56:16.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T12:17:03.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "RelativeToolTip": "src\\PackIT.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:17:02.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Infrastructure\\Extension.cs",
+              "RelativeDocumentMoniker": "src\\PackIT.Shared.Infrastructure\\Extension.cs",
+              "ToolTip": "C:\\Users\\krzysztof.dusza\\OneDrive - Rossmann SDP\\Pulpit\\project\\PackIT\\PackIT\\src\\PackIT.Shared.Infrastructure\\Extension.cs",
+              "RelativeToolTip": "src\\PackIT.Shared.Infrastructure\\Extension.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:16:36.74Z"
             }
           ]
         }

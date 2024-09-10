@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PackIT.Shared.Abstractions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea578d9cdec47b59306ebc4a19592c5b6a9de1c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a0a2c88c3ba1369c09a1f56ba1ab3aa2ced03b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PackIT.Shared.Abstractions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PackIT.Shared.Abstractions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
