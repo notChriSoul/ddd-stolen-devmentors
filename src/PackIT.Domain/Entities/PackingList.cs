@@ -39,6 +39,11 @@ namespace PackIT.Domain.Entities
             _localization = localization;
         }
 
+        private PackingList()
+        {
+
+        }
+
 
         public void AddItem(PackingItem item) 
         { 

@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using PackIT.Shared.Abstractions.Commands;
-using PackIT.Shared.Commands;
+using PackIT.Shared.Abstractions.Queries;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,22 +7,22 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PackIT.Shared
+namespace PackIT.Shared.Queries
 {
     public static class Extension
     {
-       
 
-        public static IServiceCollection AddCommands(this IServiceCollection services)
+
+        public static IServiceCollection AddQueries(this IServiceCollection services)
         {
             var assembly = Assembly.GetCallingAssembly();
 
 
-            services.AddSingleton<ICommandDispatcher, InMemoryCommandDispatcher>();
+            services.AddSingleton<IQueryDispatcher, InMemoryQueryDispatcher>();
 
             // ????
             services.Scan(s => s.FromAssemblies(assembly)
-            .AddClasses(c => c.AssignableTo(typeof(ICommandHandler<>)))
+            .AddClasses(c => c.AssignableTo(typeof(IQueryHandler<,>)))
             .AsImplementedInterfaces()
             .WithScopedLifetime());
 
