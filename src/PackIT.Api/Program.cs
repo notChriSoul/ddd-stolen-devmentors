@@ -1,6 +1,6 @@
 using PackIT.Application;
 using PackIT.Infrastructure;
-
+using PackIT.Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,8 +11,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
+builder.Services.AddShared();
 builder.Services.AddApplication();
-builder.Services.AddInfrastructure();
+builder.Services.AddInfrastructure(builder.Configuration);
+
 
 var app = builder.Build();
 
@@ -23,7 +25,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//app.UseErrorHandling();
+
 app.UseHttpsRedirection();
+app.UseShared();
+
 
 app.UseAuthorization();
 

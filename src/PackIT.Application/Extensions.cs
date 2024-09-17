@@ -2,12 +2,6 @@
 using PackIT.Domain.Factories;
 using PackIT.Domain.Policies;
 using PackIT.Shared.Commands;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.Design;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PackIT.Application
 {
@@ -16,10 +10,9 @@ namespace PackIT.Application
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
             services.AddCommands();
+            services.AddSingleton<IPackingListFactory, PackingListFactory>();
+           
 
-            services.AddSingleton<IPackingListFactory, IPackingListFactory>(); //????? 
-
-            // ??????????????????
             services.Scan(b => b.FromAssemblies(typeof(IPackingItemsPolicy).Assembly)
             .AddClasses(c => c.AssignableTo<IPackingItemsPolicy>())
             .AsImplementedInterfaces()

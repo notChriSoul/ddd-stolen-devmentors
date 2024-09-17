@@ -11,7 +11,7 @@ namespace PackIT.Domain.ValueObjects
     {
         public double Value { get; }
 
-        public TravelDays(double value)
+        public Temperature(double value)
         {
             if (value is < -100 or > 100)
             {
